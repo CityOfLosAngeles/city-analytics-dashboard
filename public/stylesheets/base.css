@@ -53,8 +53,6 @@ h2 {
     -webkit-align-self: auto;
     min-height: 100%;
     background-color: #ffffff;
-    border-radius: 3px;
-    border: 1px solid #4b9990;
     overflow: hidden;
     padding: 1em; }
     .bricks .brick ul, .bricks .brick li {
@@ -109,8 +107,6 @@ h2 {
 .top-bar {
   background: #ffffff;
   padding: 10px 20px;
-  border: 1px solid #4b9990;
-  border-radius: 3px;
   color: #000;
   clear: both;
   overflow: hidden; }
@@ -190,11 +186,11 @@ h2 {
       width: 50%;
     }*/ }
   .traffic path, .traffic line.axis {
-    stroke: #f2f2f2;
+    stroke: #000000;
     stroke-width: 0.4;
     fill: none; }
   .traffic .label {
-    fill: #78bfbf;
+    fill: #f2f2f2;
     font-size: 16px; }
 
 .sparkline path {
