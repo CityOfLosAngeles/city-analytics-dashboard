@@ -76,7 +76,7 @@ h2 {
       list-style: none;
       font-size: 25px;
       line-height: 1;
-      color: #000000;
+      color: yellow;
       opacity: 0.5; }
       .bricks .brick .search-terms ul li:nth-child(1) {
         opacity: 1.0; }
@@ -109,7 +109,7 @@ h2 {
   clear: both;
   overflow: hidden; }
   .top-bar p {
-    color: #000000;
+    color: #f2f2f2;
     font-size: 0.6em; }
     .top-bar p a {
       color: #f2f2f2; }
@@ -208,7 +208,7 @@ h2 {
   margin: 0;
   padding-bottom: 10px;
   list-style: none;
-  color: #000000; }
+  color: yellow; }
   .content li em {
     font-style: normal;
     display: block;
